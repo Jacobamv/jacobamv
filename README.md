@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">I am backend developer from Dushanbe/Tajikistan</h3>
+<h3 align="center">currently live in Warsaw/Poland</h3>
 
-- 🔭 I’m currently working in [Paymona](http://github.com/paymona)
+- 🔭 I’m currently working in [HumoLab](https://www.instagram.com/humo.lab/)
 
 - 🌱 I’m currently learning **Rust/Golang and ML in Python**
 
