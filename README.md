@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/brosskev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brosskev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brosskev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56736396/216783577-ca284527-3d61-4245-a119-ef0254f311cf.png" alt="brosskev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
