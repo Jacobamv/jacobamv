@@ -2,7 +2,7 @@
 <h3 align="center">I am backend developer from Dushanbe/Tajikistan</h3>
 <h3 align="center">currently live in Warsaw/Poland</h3>
 
-- 🔭 I’m currently working in [HumoLab](https://www.instagram.com/humo.lab/)
+- 🔭 CTO of Paymona AI 
 
 - 🌱 I’m currently learning **Rust/Golang and ML in Python**
 
