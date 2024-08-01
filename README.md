@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **django, flask, go-net-http**
 
-- 📫 How to reach me **jakhmedov@paymona.com** rr **jacob@akhmedov.tech**
+- 📫 How to reach me  **jacob@akhmedov.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
