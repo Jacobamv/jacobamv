@@ -2,7 +2,7 @@
 <h3 align="center">I am backend developer from Dushanbe/Tajikistan</h3>
 <h3 align="center">currently live in Warsaw/Poland</h3>
 
-- 🔭 CTO of Predictory AI 
+- 🔭 Backend developer in HumoLab
 
 - 🌱 I’m currently learning **Rust/Golang and ML in Python**
 
